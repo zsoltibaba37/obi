@@ -10,6 +10,4 @@ Random orbi quotes
 $> ./orbi
 
 How many quotes should print? [78]:
-```# obi
-# obi
-# obi
+```
